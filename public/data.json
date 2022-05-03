@@ -1,0 +1,59 @@
+[
+    {
+        "id":1001,
+        "username":"parth",
+        "gender":"male",
+        "salary":55000
+    
+    },
+    {
+        
+        "id":1001,
+        "username":"chirag",
+        "gender":"male",
+        "salary":56000
+    
+    },
+    {
+        
+        "id":1001,
+        "username":"samar",
+        "gender":"male",
+        "salary":57000
+    
+    },
+    {
+        "id":1001,
+        "username":"jay",
+        "gender":"male",
+        "salary":58000
+    
+    },
+    {
+        "id":1001,
+        "username":"alkesh",
+        "gender":"male",
+        "salary":59000
+    
+    },
+    {
+        "id":1001,
+        "username":"jinal",
+        "gender":"female",
+        "salary":60000
+    
+    },
+
+    {
+        "id":1001,
+        "username":"jeet",
+        "gender":"male",
+        "salary":61000    
+    },
+    {
+        "id":1001,
+        "username":"brijesh",
+        "gender":"male",
+        "salary":61000    
+    }
+]
